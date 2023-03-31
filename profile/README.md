@@ -65,3 +65,5 @@ A Comunidade aguarda por você :)
 - Telegram: https://t.me/communitydevangola
 
 - YouTube: https://www.youtube.com/channel/UCNMvs5Uo4a_qdd33405eAoQ
+
+- Whatsapp: https://chat.whatsapp.com/IX7Lw2EYysD0iH76DbIvXl
