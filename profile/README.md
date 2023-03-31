@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="/images/cda.png" width="200" alt="CDA Logo" title="CDA Logo">
+  <img src="/images/cda.jpeg" width="200" alt="CDA Logo" title="CDA Logo">
   <h1 align="center">Joining-to-Community</h1>
 
   <p align="center">
-    Seja muito bem vindo(a) à Community Dev Angola :rocket:
+    Seja muito bem vindo(a) à Comunidade de Desenvolvedores de Angola :rocket:
     <br/>
     Esse é um espaço para você tirar suas dúvidas, compartilhar suas experiências, e principalmente, evoluir como programador.
   </p>
