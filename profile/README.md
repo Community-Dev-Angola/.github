@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/cda.jpeg" width="200" alt="CDA Logo" title="CDA Logo">
+  <img src="/images/baner-cda.jpeg" width="200" alt="CDA Logo" title="CDA Logo">
   <h1 align="center">Joining-to-Community</h1>
 
   <p align="center">
